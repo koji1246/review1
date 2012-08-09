@@ -1,0 +1,29 @@
+public class Person{
+	static String uji =氏;
+	static String na = 名;
+	String firstname;
+	String lastname;
+	
+
+	public getfirst(String firstname){
+		string firstname = "高志";
+
+	}
+
+	public setfirst(String lastname){
+		string lastname = "渡辺";
+	}
+
+	public getlastname(String firstname){
+		string firstname = "充史";
+	}
+
+	public setlastname(String lastname){
+		string lastname = "和田";
+	}
+
+	showname(){
+
+		System.out.print(uji:+lastname na:+firstname);//?
+	}
+}
